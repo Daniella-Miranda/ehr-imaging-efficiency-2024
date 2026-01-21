@@ -10,6 +10,10 @@ This project analyses whether EHR interoperability adoption within the state-lev
 - CMS Outpatient Imaging Efficiency - State dataset
 
 ## Key Insights
-- States with high EHR ineroperability adoption tend to have lower average outpatient imaging efficiency score.
+- States with higher EHR ineroperability adoption do not show measurable improvements in outpatient imaging efficicency.
 - States with low EHR interoperability adoption show higher average outpatient imaging efficiency score.
 - New York was the state witht he highest interoperability adoption, showing an average
+
+## How to Explore
+1. Open the Tableau workboos in "tableau_workbooks/"
+2. Review dashboards and KPIs
