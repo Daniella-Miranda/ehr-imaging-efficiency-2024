@@ -17,3 +17,8 @@ This project analyses whether EHR interoperability adoption within the state-lev
 ## How to Explore
 1. Open the Tableau workboos in "tableau_workbooks/"
 2. Review dashboards and KPIs
+
+## Dashboard Preview
+
+## US State Efficiency 2024
+![US State Efficiency Dashboard](images/us_state_efficiency_2024.png)
