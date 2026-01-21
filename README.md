@@ -1,4 +1,5 @@
-## Tableau Public Dashboard: https://public.tableau.com/views/Hospital_EHR_Interop_Imaging_Efficiency_2024/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Tableau Public Dashboard
+https://public.tableau.com/views/Hospital_EHR_Interop_Imaging_Efficiency_2024/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # ehr-imaging-efficiency-2024
 This project analyses whether EHR interoperability adoption within the state-level result in better outpatient imaging efficiency. This analysis uses Tableau, Excel, and publicly available CMS datasets
