@@ -21,4 +21,4 @@ This project analyses whether EHR interoperability adoption within the state-lev
 ## Dashboard Preview
 
 ## US State Efficiency 2024
-![US State Efficiency Dashboard](images/us_state_efficiency_2024.png)
+![US State Efficiency Dashboard](data/images/ehr_dashboard.png)
